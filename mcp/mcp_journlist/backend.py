@@ -28,3 +28,5 @@ async def generate_news_audio(requests: NewsRequests):
         news_summary=my_summary_function(news_data, reddit_data)
 
         audio_path=convert_text_to_audio(news_summary)
+    except Exception as e:
+        return f"Unexcepted error {str(e)}"
