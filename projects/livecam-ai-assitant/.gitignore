@@ -120,3 +120,4 @@ venv.bak/
 
 # macOS
 .DS_Store
+projects/livecam-ai-assitant/pyproject.toml
