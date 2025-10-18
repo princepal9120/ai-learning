@@ -51,7 +51,7 @@
 
 ---
 
-## 🔢 **0. Math Foundations**
+## **0. Math Foundations**
 
 <table>
 <tr>
@@ -81,7 +81,7 @@
 
 ---
 
-## 🐍 **1. Python Basics**
+## **1. Python Basics**
 
 <table>
 <tr>
@@ -112,7 +112,7 @@
 
 ---
 
-## 🎨 **2. Streamlit**
+## **2. Streamlit**
 
 <table>
 <tr>
@@ -143,7 +143,7 @@
 
 ---
 
-## ⚡ **3. FastAPI**
+## **3. FastAPI**
 
 <table>
 <tr>
@@ -174,7 +174,7 @@
 
 ---
 
-## 🤖 **4. Machine Learning — Core Basics**
+##  **4. Machine Learning — Core Basics**
 
 <table>
 <tr>
@@ -342,7 +342,7 @@
 
 ---
 
-## 📝 **6. ML for NLP**
+##  **6. ML for NLP**
 
 <table>
 <tr>
@@ -380,7 +380,7 @@
 
 ---
 
-## 🧠 **7. Deep Learning Basics**
+## **7. Deep Learning Basics**
 
 <table>
 <tr>
@@ -411,7 +411,7 @@
 
 ---
 
-## 🎯 **8. Core Deep Learning**
+## **8. Core Deep Learning**
 
 <table>
 <tr>
@@ -475,7 +475,7 @@
 
 ---
 
-## 🛠️ **9. DL Frameworks**
+## **9. DL Frameworks**
 
 <table>
 <tr>
@@ -514,7 +514,7 @@
 
 ---
 
-## 🔧 **10. MLOps**
+## **10. MLOps**
 
 <table>
 <tr>
@@ -579,7 +579,7 @@
 
 ---
 
-## 🔄 **11. Transformers**
+## **11. Transformers**
 
 <table>
 <tr>
@@ -628,7 +628,7 @@
 
 ---
 
-## ✨ **12. Introduction to Gen AI**
+## **12. Introduction to Gen AI**
 
 <table>
 <tr>
@@ -792,7 +792,7 @@
 
 ---
 
-## 🔗 **14. Introduction to LangChain**
+## **14. Introduction to LangChain**
 
 <table>
 <tr>
@@ -867,7 +867,7 @@
 
 ---
 
-## 🔍 **15. RAG (Retrieval Augmented Generation)**
+##  **15. RAG (Retrieval Augmented Generation)**
 
 <table>
 <tr>
@@ -923,7 +923,7 @@
 
 ---
 
-## 💾 **16. Vector Databases**
+##  **16. Vector Databases**
 
 <table>
 <tr>
@@ -972,7 +972,7 @@
 
 ---
 
-## 🤝 **17. Agentic AI**
+## **17. Agentic AI**
 
 <table>
 <tr>
