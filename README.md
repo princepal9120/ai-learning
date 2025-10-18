@@ -17,35 +17,30 @@
 <details open>
 <summary><b>Click to expand/collapse</b></summary>
 
-## 📋 Table of Contents
-
-<details open>
-<summary><b>Click to expand/collapse</b></summary>
-
-- [🔢 Math Foundations](#-0-math-foundations-1)
-- [🐍 Python Basics](#-1-python-basics-1)
-- [🎨 Streamlit](#-2-streamlit-1)
-- [⚡ FastAPI](#-3-fastapi-1)
-- [🤖 Machine Learning — Core Basics](#-4-machine-learning--core-basics-1)
-- [📊 Machine Learning — Deep Dive](#-5-machine-learning--deep-dive)
-- [📝 ML for NLP](#-6-ml-for-nlp)
-- [🧠 Deep Learning Basics](#-7-deep-learning-basics)
-- [🎯 Core Deep Learning](#-8-core-deep-learning)
-- [🛠️ DL Frameworks](#️-9-dl-frameworks-1)
-- [🔧 MLOps](#-10-mlops)
-- [🔄 Transformers](#-11-transformers)
-- [✨ Introduction to Gen AI](#-12-introduction-to-gen-ai)
-- [🦾 Large Language Models (LLMs) - Advanced](#-13-large-language-models-llms---advanced)
-- [🔗 Introduction to LangChain](#-14-introduction-to-langchain)
-- [🔍 RAG (Retrieval Augmented Generation)](#-15-rag-retrieval-augmented-generation)
-- [💾 Vector Databases](#-16-vector-databases)
-- [🤝 Agentic AI](#-17-agentic-ai)
-- [📈 LangGraph & Advanced Agents](#-18-langgraph--advanced-agents)
-- [🌐 Model Context Protocol (MCP)](#-19-model-context-protocol-mcp)
-- [🚀 FastAPI (Backend for AI)](#-20-fastapi-backend-for-ai)
-- [📚 Additional Resources](#-additional-resources-1)
-
-</details>
+- [🔢 Math Foundations](#0-math-foundations)
+- [🐍 Python Basics](#1-python-basics)
+- [🎨 Streamlit](#2-streamlit)
+- [⚡ FastAPI](#3-fastapi)
+- [🤖 Machine Learning — Core Basics](#4-machine-learning--core-basics)
+- [📊 Machine Learning — Deep Dive](#5-machine-learning--deep-dive)
+- [📝 ML for NLP](#6-ml-for-nlp)
+- [🧠 Deep Learning Basics](#7-deep-learning-basics)
+- [🎯 Core Deep Learning](#8-core-deep-learning)
+- [🛠️ DL Frameworks](#9-dl-frameworks)
+- [🔧 MLOps](#10-mlops)
+- [🔄 Transformers](#11-transformers)
+- [✨ Introduction to Gen AI](#12-introduction-to-gen-ai)
+- [🦾 Large Language Models (LLMs) - Advanced](#13-large-language-models-llms---advanced)
+- [🔗 Introduction to LangChain](#14-introduction-to-langchain)
+- [🔍 RAG (Retrieval Augmented Generation)](#15-rag-retrieval-augmented-generation)
+- [💾 Vector Databases](#16-vector-databases)
+- [🤝 Agentic AI](#17-agentic-ai)
+- [📈 LangGraph & Advanced Agents](#18-langgraph--advanced-agents)
+- [🌐 Model Context Protocol (MCP)](#19-model-context-protocol-mcp)
+- [🚀 FastAPI (Backend for AI)](#20-fastapi-backend-for-ai)
+- [🚀 Fine-tuning](#21-fine-tuning)
+- [🚀 LLMOps](#22-llmops)
+- [📚 Additional Resources](#additional-resources)
 
 </details>
 
@@ -99,7 +94,7 @@
 **🇮🇳 Hindi:**
 
 - [CampusX Python](https://youtube.com/playlist?list=PLKnIA16_Rmvb1RYR5SrSveMEHX4vVKHWH)
-- [CodeWithHarry Python](https://youtu.be/7wnove7K-ZQ)
+- [Chaiaurcode Python](https://www.youtube.com/playlist?list=PLu71SKxNbfoBsMugTFALhdLlZ5VOqCg2s)
 
 **🌍 English:**
 
@@ -129,13 +124,12 @@
 
 **🇮🇳 Hindi:**
 
-- [CampusX Streamlit](https://youtu.be/HMZVd4tGIkQ)
 - [Chai aur Code Streamlit](https://youtu.be/yKTEC1Y5bEQ)
 
 **🌍 English:**
 
 - [Official Streamlit Tutorial](https://docs.streamlit.io/get-started/tutorials)
-- [Data Professor Streamlit](https://youtu.be/ZZ4B0QUHuNc)
+- [Data Professor Streamlit](https://www.youtube.com/watch?v=JwSS70SZdyM)
 
 </td>
 </tr>
@@ -161,7 +155,6 @@
 **🇮🇳 Hindi:**
 
 - [CampusX FastAPI](https://youtube.com/playlist?list=PLKnIA16_RmvZ41tjbKB2ZnwchfniNsMuQ)
-- [Krish Naik FastAPI](https://youtu.be/7t2alSnE2-I)
 
 **🌍 English:**
 
@@ -174,7 +167,7 @@
 
 ---
 
-##  **4. Machine Learning — Core Basics**
+## **4. Machine Learning — Core Basics**
 
 <table>
 <tr>
@@ -192,7 +185,6 @@
 **🇮🇳 Hindi:**
 
 - [CampusX ML Course](https://youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH)
-- [Krish Naik ML Basics](https://youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe)
 
 **🌍 English:**
 
@@ -242,7 +234,7 @@
 
 **🇮🇳 Hindi:**
 
-- [Krish Naik Data Labeling](https://youtu.be/qOjgMsQHLxU)
+- [CampusX Data Labeling](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH)
 
 **🌍 English:**
 
@@ -342,7 +334,7 @@
 
 ---
 
-##  **6. ML for NLP**
+## **6. ML for NLP**
 
 <table>
 <tr>
@@ -359,12 +351,11 @@
 
 **🇮🇳 Hindi:**
 
-- [CampusX NLP](https://youtube.com/playlist?list=PLKnIA16_RmvbI6m5fRV2usgbdYSCcI6I1)
-- [Krish Naik NLP](https://youtube.com/playlist?list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn)
+- [CampusX NLP](https://www.youtube.com/playlist?list=PLKnIA16_RmvZo7fp5kkIth6nRTeQQsjfX)
 
 **🌍 English:**
 
-- [Stanford CS224N](https://web.stanford.edu/class/cs224n/)
+- [Krish Naik NLP](https://youtube.com/playlist?list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn)
 - [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course)
 
 </td>
@@ -398,10 +389,10 @@
 **🇮🇳 Hindi:**
 
 - [CampusX Deep Learning](https://youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)
-- [Krish Naik DL Playlist](https://youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
 
 **🌍 English:**
 
+- [Krish Naik DL Playlist](https://youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
 - [3Blue1Brown Neural Networks](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [MIT 6.S191](http://introtodeeplearning.com/)
 
@@ -432,6 +423,7 @@
 
 **🌍 English:**
 
+- [Krish Naik DL Playlist](https://youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
 - [MIT 6.S191 Deep Learning](https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 - [3Blue1Brown Neural Networks](https://www.youtube.com/@3blue1brown)
 
@@ -486,20 +478,18 @@
 </tr>
 <tr>
 <td align="center"><b>17</b></td>
-<td><b>PyTorch/TensorFlow</b></td>
+<td><b>PyTorch</b></td>
 <td>Tensors, model building, training loops</td>
 <td>
 
 **🇮🇳 Hindi:**
 
-- [CampusX PyTorch](https://youtube.com/playlist?list=PLKnIA16_RmvbAlyx4_rdtR66B7EHX5k3z)
-- [Krish Naik PyTorch](https://youtu.be/ic4H1-KErbs)
+- [CampusX PyTorch](https://www.youtube.com/playlist?list=PLKnIA16_Rmvboy8bmDCjwNHgTaYH2puK7)
 
 **🌍 English:**
 
 - [PyTorch Official Tutorial](https://pytorch.org/tutorials/)
-- [FreeCodeCamp PyTorch](https://youtu.be/Z_ikDlimN6A)
-- [TensorFlow Official Docs](https://www.tensorflow.org)
+- [FreeCodeCamp PyTorch](https://youtu.be/V_xro1bcAuA?si=AeVWeUwCnE8Da9Ne)
 
 </td>
 </tr>
@@ -533,6 +523,7 @@
 
 - [Krish Naik MLOps](https://youtube.com/playlist?list=PLZoTAELRMXVOk1pRcOCaG5Q5Xc3RdGdm7)
 - [CampusX MLOps](https://youtube.com/playlist?list=PLKnIA16_RmvbB1bv35BNo7wP6TqvUXFqT)
+- [Krish Naik LLMOps Course](https://www.youtube.com/playlist?list=PLQxDHpeGU14CG-wDgZDqFdjsWhWqtDGdi)
 
 **🌍 English:**
 
@@ -711,6 +702,7 @@
 
 - [Krish Naik PEFT](https://youtu.be/Us5ZFp16PaU)
 - [CampusX Fine-tuning](https://youtu.be/eC6Hd1hFvos)
+- [Krish Naik Fine-tuning Course](https://www.youtube.com/playlist?list=PLQxDHpeGU14BX9L83JMSoKHsdIjv98BGn)
 
 **🌍 English:**
 
@@ -867,7 +859,7 @@
 
 ---
 
-##  **15. RAG (Retrieval Augmented Generation)**
+## **15. RAG (Retrieval Augmented Generation)**
 
 <table>
 <tr>
@@ -923,7 +915,7 @@
 
 ---
 
-##  **16. Vector Databases**
+## **16. Vector Databases**
 
 <table>
 <tr>
@@ -1062,7 +1054,7 @@
 
 ---
 
-## 📈 **18. LangGraph & Advanced Agents**
+## **18. LangGraph & Advanced Agents**
 
 <table>
 <tr>
@@ -1134,7 +1126,7 @@
 
 ---
 
-## 🌐 **19. Model Context Protocol (MCP)**
+## **19. Model Context Protocol (MCP)**
 
 <table>
 <tr>
@@ -1152,7 +1144,6 @@
 **🇮🇳 Hindi:**
 
 - [CampusX MCP Series](https://youtube.com/playlist?list=PLKnIA16_Rmva_oZ9F4ayUu9qcWgF7Fyc0)
-- [Krish Naik MCP](https://youtu.be/MDBG2MOp4Go)
 
 **🌍 English:**
 
@@ -1182,7 +1173,7 @@
 
 ---
 
-## 🚀 **20. FastAPI (Backend for AI)**
+## **21. Fine-tuning**
 
 <table>
 <tr>
@@ -1192,32 +1183,148 @@
 <th width="40%">Resources</th>
 </tr>
 <tr>
-<td align="center"><b>47</b></td>
-<td><b>AI Model Deployment</b></td>
-<td>Serving ML/DL models, batch processing, monitoring</td>
+<td align="center"><b>48</b></td>
+<td><b>Fine-tuning Fundamentals</b></td>
+<td>Full fine-tuning, transfer learning, domain adaptation</td>
 <td>
 
 **🇮🇳 Hindi:**
 
-- [CampusX FastAPI Deployment](https://youtube.com/playlist?list=PLKnIA16_RmvZ41tjbKB2ZnwchfniNsMuQ)
-- [Krish Naik Model Deployment](https://youtu.be/7t2alSnE2-I)
+- [Krish Naik Fine-tuning Course](https://www.youtube.com/playlist?list=PLQxDHpeGU14BX9L83JMSoKHsdIjv98BGn)
+- [SunnySavita Fine-tuning](https://www.youtube.com/playlist?list=PLQxDHpeGU14BX9L83JMSoKHsdIjv98BGn)
 
 **🌍 English:**
 
-- [FastAPI ML Deployment](https://fastapi.tiangolo.com/deployment/)
-- [MLOps Best Practices](https://ml-ops.org/)
+- [Hugging Face Fine-tuning Guide](https://huggingface.co/docs/transformers/training)
+- [Fine-tuning Best Practices](https://arxiv.org/abs/1909.05858)
+
+</td>
+</tr>
+<tr>
+<td align="center"><b>49</b></td>
+<td><b>Parameter Efficient Fine-tuning</b></td>
+<td>LoRA, QLoRA, AdaLoRA, Prefix Tuning, P-Tuning</td>
+<td>
+
+**🇮🇳 Hindi:**
+
+- [Krish Naik PEFT](https://youtu.be/iOdFUJiB0Zc?si=aJeRcjQvC1By1ela)
+- [CampusX PEFT Tutorial](https://youtu.be/eC6Hd1hFvos)
+
+**🌍 English:**
+
+- [Hugging Face PEFT](https://huggingface.co/docs/peft/index)
+- [LoRA Paper](https://arxiv.org/abs/2106.09685)
+
+</td>
+</tr>
+<tr>
+<td align="center"><b>50</b></td>
+<td><b>Instruction Tuning</b></td>
+<td>Supervised fine-tuning, instruction following, dataset creation</td>
+<td>
+
+**🇮🇳 Hindi:**
+
+- [Krish Naik Instruction Tuning](https://youtu.be/2MBJOuVq380)
+
+**🌍 English:**
+
+- [Instruction Tuning Paper](https://arxiv.org/abs/2109.01652)
+- [Self-Instruct](https://arxiv.org/abs/2212.10560)
 
 </td>
 </tr>
 </table>
 
+### 🛠 **P8: Fine-tuning Projects**
+
+| Project                         | Description                                                 | Tech Stack                            |
+| ------------------------------- | ----------------------------------------------------------- | ------------------------------------- |
+| **Custom Domain Fine-tuning**   | Fine-tune LLM for specific domain (medical, legal, finance) | Transformers, LoRA, Custom datasets   |
+| **Instruction Following Model** | Create model that follows specific instructions             | Alpaca, FLAN-T5, Instruction datasets |
+| **Code Generation Fine-tuning** | Fine-tune model for code generation tasks                   | CodeT5, StarCoder, HumanEval dataset  |
+
 ---
 
-## 📚 **Additional Resources**
+## 🚀 **22. LLMOps**
+
+<table>
+<tr>
+<th width="10%">S.No</th>
+<th width="20%">Topic</th>
+<th width="30%">Description</th>
+<th width="40%">Resources</th>
+</tr>
+<tr>
+<td align="center"><b>51</b></td>
+<td><b>LLMOps Fundamentals</b></td>
+<td>LLM lifecycle management, deployment strategies, monitoring</td>
+<td>
+
+**🇮🇳 Hindi:**
+
+- [Krish Naik LLMOps Course](https://www.youtube.com/playlist?list=PLQxDHpeGU14CG-wDgZDqFdjsWhWqtDGdi)
+- [CampusX LLMOps](https://youtu.be/eC6Hd1hFvos)
+
+**🌍 English:**
+
+- [LLMOps Best Practices](https://ml-ops.org/)
+- [MLflow for LLMs](https://mlflow.org/docs/latest/llms/index.html)
+
+</td>
+</tr>
+<tr>
+<td align="center"><b>52</b></td>
+<td><b>LLM Serving & Deployment</b></td>
+<td>Model serving, API endpoints, scaling, load balancing</td>
+<td>
+
+**🇮🇳 Hindi:**
+
+- [Krish Naik LLM Deployment](https://youtu.be/7t2alSnE2-I)
+
+**🌍 English:**
+
+- [vLLM Documentation](https://docs.vllm.ai/en/latest/)
+- [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
+
+</td>
+</tr>
+<tr>
+<td align="center"><b>53</b></td>
+<td><b>LLM Monitoring & Evaluation</b></td>
+<td>Performance metrics, A/B testing, quality assurance</td>
+<td>
+
+**🇮🇳 Hindi:**
+
+- [Krish Naik LLM Metrics](https://youtu.be/RoKJdh7j9xI)
+
+**🌍 English:**
+
+- [LangSmith Monitoring](https://docs.smith.langchain.com/)
+- [Weights & Biases LLMOps](https://wandb.ai/site/solutions/llmops)
+
+</td>
+</tr>
+</table>
+
+### 🛠 **P9: LLMOps Projects**
+
+| Project                         | Description                                       | Tech Stack                                |
+| ------------------------------- | ------------------------------------------------- | ----------------------------------------- |
+| **LLM API Service**             | Deploy LLM as scalable API with monitoring        | FastAPI, Docker, Kubernetes, Prometheus   |
+| **LLM A/B Testing Platform**    | Compare different LLM versions in production      | MLflow, Gradio, custom evaluation metrics |
+| **Cost-Optimized LLM Pipeline** | Implement cost-effective LLM serving with caching | Redis, vLLM, token optimization           |
+
+---
+
+## �📚 **Additional Resources**
 
 ### 🎥 **Top YouTube Channels**
 
-#### 🇮🇳 **Hindi Creators**
+#### 🇮🇳 **Indian Creators**
 
 | Channel        | Focus Area                    | Link                                                       |
 | -------------- | ----------------------------- | ---------------------------------------------------------- |
@@ -1225,7 +1332,7 @@
 | **Krish Naik** | Comprehensive ML/AI tutorials | [Visit Channel](https://www.youtube.com/@krishnaik06)      |
 | **Codebasics** | Data Science & ML             | [Visit Channel](https://www.youtube.com/@codebasics)       |
 
-#### 🌍 **English Creators**
+#### 🌍 **Foreign Creators**
 
 | Channel                          | Focus Area                  | Link                                                                     |
 | -------------------------------- | --------------------------- | ------------------------------------------------------------------------ |
