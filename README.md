@@ -37,9 +37,9 @@
 - [🤝 Agentic AI](#17-agentic-ai)
 - [📈 LangGraph & Advanced Agents](#18-langgraph--advanced-agents)
 - [🌐 Model Context Protocol (MCP)](#19-model-context-protocol-mcp)
-- [🚀 FastAPI (Backend for AI)](#20-fastapi-backend-for-ai)
-- [🚀 Fine-tuning](#21-fine-tuning)
-- [🚀 LLMOps](#22-llmops)
+- [🚀 Fine-tuning](#20-fine-tuning)
+- [🚀 LLMOps](#21-llmops)
+- [📚 Additional Agentic Framework](#additional-agentic-framework)
 - [📚 Additional Resources](#additional-resources)
 
 </details>
@@ -1317,6 +1317,54 @@
 | **LLM API Service**             | Deploy LLM as scalable API with monitoring        | FastAPI, Docker, Kubernetes, Prometheus   |
 | **LLM A/B Testing Platform**    | Compare different LLM versions in production      | MLflow, Gradio, custom evaluation metrics |
 | **Cost-Optimized LLM Pipeline** | Implement cost-effective LLM serving with caching | Redis, vLLM, token optimization           |
+
+---
+
+---
+
+## **19. Model Context Protocol (MCP)**
+
+<table>
+<tr>
+<th width="10%">S.No</th>
+<th width="20%">Topic</th>
+<th width="30%">Description</th>
+<th width="40%">Resources</th>
+</tr>
+<tr>
+<td align="center"><b>54</b></td>
+<td><b>Crew Ai</b></td>
+<td>Minimal agentic framework for build agents </td>
+<td>
+
+**🇮🇳 Hindi:**
+
+- [crew ai project](https://www.youtube.com/watch?v=08lLabdEcfU)
+
+**🌍 English:**
+
+- [fundamental with project](https://youtu.be/G42J2MSKyc8?si=iQlICrNsu0VeEJnw)
+
+</td>
+</tr>
+<tr>
+<td align="center"><b>55</b></td>
+<td><b>Vercel AI Sdk</b></td>
+<td>Your Go To Ai Sdk Tool fo Built Agents</td>
+<td>
+
+**🇮🇳 Hindi:**
+
+- [SQL Agent Project](https://www.youtube.com/watch?v=2b1iGOMdxis)
+
+**🌍 English:**
+
+- [fundamentals](https://youtu.be/kDlqpN1JyIw?si=wHmx_Cmu7q5haD6i)
+- [Docs](https://ai-sdk.dev/docs/introduction)
+
+</td>
+</tr>
+</table>
 
 ---
 
