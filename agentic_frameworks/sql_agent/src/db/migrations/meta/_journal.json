@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1761068838993,
+      "tag": "0000_stiff_marvex",
+      "breakpoints": true
+    }
+  ]
+}
