@@ -12,15 +12,25 @@ export async function POST(req: Request) {
     model: openai('gpt-4o'),
     messages: convertToModelMessages(messages),
      tools: {
-      weather: tool({
-        description: 'Get the weather in a location (fahrenheit)',
+      db: tool({
+        description: 'Call this tool to query a database',
         inputSchema: z.object({
-          location: z.string().describe('The location to get the weather for'),
+          query: z.string().describe('The SQL query to execute'),
         }),
-        execute: async ({ location }) => {
-          const temperature = Math.round(Math.random() * (90 - 32) + 32);
+        execute: async ({ query }) => {
+          // Simulate a database query
+          const results = `Results for query: ${query}`;
+          console.log(`Executing DB query: ${query}: results: ${results}`);
           return {
-            location,
+            results,
+          };
+        },
+      }),
+    },
+  });
+
+  return result.toUIMessageStreamResponse();
+}
             temperature,
           };
         },
