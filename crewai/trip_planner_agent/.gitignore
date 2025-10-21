@@ -25,8 +25,6 @@ var/
 MANIFEST
 
 # PyInstaller
-#  Usually these files are written by a python script from a template
-#  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
 
@@ -118,3 +116,14 @@ venv.bak/
 
 # macOS
 .DS_Store
+
+# ----------------------------
+# UV-specific
+# ----------------------------
+# Virtual environment created by UV
+.uv/
+# Lockfile (optional — keep if you want reproducible builds)
+uv.lock
+
+# Cache (faster installs)
+.uv-cache/
