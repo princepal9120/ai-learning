@@ -1,5 +1,5 @@
 from travelAgents import guide_expert, location_expert, planner_expert
-from crewai.trip_planner_agent.travelTasks import location_task, guide_task, planner_task
+from travelTasks import location_task, guide_task, planner_task
 from crewai import Crew, Process
 import streamlit as st
 

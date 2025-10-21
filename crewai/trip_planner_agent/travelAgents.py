@@ -3,12 +3,15 @@ from travelTools import search_web_tool
 #from TravelTools import search_web_tool, web_search_tool
 from crewai import LLM
 from langchain_openai import ChatOpenAI
+import os
 
-
+OPENAI_API_KEY =os.getenv("OPENAI_API_KEY")
+print("OpenAI Key:", OPENAI_API_KEY)
 # Initialize LLM
-llm = LLM(
-    model="ollama/llama3.2",
-    base_url="http://localhost:11434"
+llm = ChatOpenAI(
+     model="gpt-4o-mini",    # or "gpt-4o", "gpt-3.5-turbo", etc.
+    temperature=0.7,        # controls creativity
+    api_key="OPENAI_API_KEY" 
 )
 
 
@@ -20,7 +23,7 @@ guide_expert = Agent(
     tools=[search_web_tool],
     verbose=True,
     max_iter=5,
-    llm=LLM(model="ollama/llama3.2",base_url="http://localhost:11434"),
+    llm=llm,
     allow_delegation=False,
 )
 
@@ -31,7 +34,7 @@ location_expert = Agent(
     tools=[search_web_tool],  
     verbose=True,
     max_iter=5,
-    llm= LLM(model="ollama/llama3.2",base_url="http://localhost:11434"),   # ChatOpenAI(temperature=0, model="gpt-4o-mini"),
+    llm=llm,
     allow_delegation=False,
 )
 
@@ -42,6 +45,6 @@ planner_expert = Agent(
     tools=[search_web_tool],
     verbose=True,
     max_iter=5,
-    llm=LLM(model="ollama/llama3.2",base_url="http://localhost:11434"),
+    llm=llm,
     allow_delegation=False,
 )
